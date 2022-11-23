@@ -1,0 +1,12 @@
+print ("Hello Dearly Beloved")
+print ("Hurrraaaaaayyyyy")
+wel_come = input()
+print ("What is your name ")
+my_name = input()
+print ("It is Lovely to Encounter you " + my_name )
+print ("Do you know Shushan")
+shushan = input()
+print ("GREATTT")
+print ("Is she your friend")
+friend = input()
+
